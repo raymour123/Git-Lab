@@ -78,7 +78,7 @@ Partners will be referred to as partner1 and partner2.
 
 #### Deliverable
 
-Each student should add a text file called "my_repo.txt" that contains a link to the new repo on their own Github account.
+Each student should add a text file called "my_repo.txt" that contains two links: one to the repo you forked, and another to the repo you own.
 
 ## Additional Resources
 
